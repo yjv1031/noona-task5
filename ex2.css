@@ -1,0 +1,14 @@
+.mother {
+  border: 1px solid red;
+  display: flex;
+  height: 100vh;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.children {
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+}
